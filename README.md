@@ -20,7 +20,7 @@ It allows users to:
 |--------------|-------------|
 | ![Screenshot4](flutter_09.png) | ![Screenshot5](flutter_08.png) |
 
-> ⚠️ Place your screenshots in a folder named `screenshots/` in the root directory.
+
 
 ---
 
@@ -38,4 +38,9 @@ It allows users to:
 ### ✅ Navigate to the project directory
 ```bash
 cd flutter_todo_list
+## ✅ Get Flutter dependencies
+
+```bash
+flutter pub get
+
 
