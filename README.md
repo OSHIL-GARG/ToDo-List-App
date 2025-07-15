@@ -1,16 +1,41 @@
-# to_do_list_app
+# 📝 Flutter To-Do List App
 
-A new Flutter project.
+This is a simple yet functional **To-Do List app** built using **Flutter**.  
+It allows users to:
 
-## Getting Started
+- ✅ Add new tasks
+- ❌ Delete tasks
+- 🔍 Search through tasks
+- ☑️ Mark tasks as done/undone
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+| Home Screen | Adding Task | Search Feature |
+|-------------|-------------|----------------|
+| ![Screenshot1](flutter_06.png) | ![Screenshot2](flutter_10.png) | ![Screenshot3](flutter_07.png) |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Mark as Done | Delete Task |
+|--------------|-------------|
+| ![Screenshot4](flutter_09.png) | ![Screenshot5](flutter_08.png) |
+
+> ⚠️ Place your screenshots in a folder named `screenshots/` in the root directory.
+
+---
+
+## 📌 Features
+
+- ✨ Clean and minimal UI
+- 🧾 Task List with add, delete, mark-as-done
+- 🔍 Real-time search
+- 🧠 All data managed in-memory (no backend or database used)
+
+---
+
+## 🚀 Getting Started
+
+### ✅ Navigate to the project directory
+```bash
+cd flutter_todo_list
+
